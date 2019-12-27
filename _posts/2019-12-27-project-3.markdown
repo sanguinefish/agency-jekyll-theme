@@ -1,6 +1,6 @@
 ---
-title: Search Engine Marketing
-subtitle: Page One Result
+title: Digital Marketing
+subtitle: SERP First Page
 layout: default
 modal-id: 3
 <!-- date: 2014-07-16 -->
