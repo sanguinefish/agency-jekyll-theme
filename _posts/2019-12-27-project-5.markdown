@@ -1,0 +1,15 @@
+---
+title: Research 
+subtitle: Honorable Mention & Cash Award
+layout: default
+modal-id: 5
+<!-- date: 2014-07-14 -->
+img: startup-framework.png
+thumbnail: startup-framework-thumbnail.png
+alt: image-alt
+<!-- project-date: April 2014 -->
+client: American Society of Safety Engineers 
+category: Research Services
+description: The American Society of Safety Engineers sponsored a competition to generate solutions for enhancing process performance. The solution, Designing Dynamic Strategies for Efficient Utilization of Tools and Techniques, won honorable mention and a cash award. 
+
+---
