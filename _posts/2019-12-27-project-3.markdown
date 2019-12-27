@@ -1,0 +1,15 @@
+---
+title: Search Engine Marketing
+subtitle: Page One Result
+layout: default
+modal-id: 3
+<!-- date: 2014-07-16 -->
+img: ddc.png
+thumbnail: ddc-thumbnail.png
+alt: image-alt
+<!-- project-date: April 2014 -->
+client: Danish Design Company
+category: Marketing Services 
+description: Lion City's leading luxury furniture retailer, Danish Design Company achieved page one rank on Google search results for Singapore with a combination of strategies including blog, copy, Google map listing, site optimization, and storytelling.
+
+---
