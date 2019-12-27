@@ -1,6 +1,6 @@
 ---
 title: Search Engine Marketing
-subtitle: Page # 1 Result on Google
+subtitle: Search Engine Page Result
 layout: default
 modal-id: 1
 <!-- date: 2014-07-18 -->
