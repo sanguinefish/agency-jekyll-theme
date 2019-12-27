@@ -22,7 +22,7 @@ description: "Cloud Services"
     #  url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
+# social:
  # - title: twitter
  #   url: http://twitter.com/jekyllrb
  # - title: facebook
@@ -31,8 +31,8 @@ social:
  #   url: http://stackoverflow.com/questions/tagged/jekyll
  # - title: bitbucket 
  #   url: http://bitbucket.org/jekyll
-    title: github
-    url: https://github.com/digifaire
+ #   title: github
+ #  url: https://github.com/digifaire
 
 # Postal address (add as many lines as necessary)
 # address:
