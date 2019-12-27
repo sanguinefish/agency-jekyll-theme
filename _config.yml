@@ -9,12 +9,12 @@ description: "Cloud Services"
 
 # Team names, titles and social links
 # people:
-- name: Raju Basumatary
+  name: Raju Basumatary
   pic: 1
   position: Chief Operations Officer
   social:
-   - title: LinkedIn
-     url: https://LinkedIn.com/in/digifaire
+  title: LinkedIn
+  url: https://LinkedIn.com/in/digifaire
     
     #- title: facebook
     #  url: #
@@ -36,8 +36,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 # address:
-#  - line: 3481 Melrose Place
-#  - line: Beverly Hills, CA 90210
+#  - line: 
+#  - line: 
 
 # Build settings
 markdown: kramdown
