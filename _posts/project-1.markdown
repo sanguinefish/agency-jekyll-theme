@@ -1,0 +1,15 @@
+---
+title: Product Design
+subtitle: MindSumo Challenge Winner 
+layout: default
+modal-id: 1
+<!-- date: 2014-07-18 -->
+img: ms.png
+thumbnail: ms-thumbnail.png
+alt: image-alt
+<!-- project-date: April 2014 -->
+client: MindSumo 
+category: Product Design
+description: A dairy products company hosted the challenge, "What's your idea for the perfect dairy-based item to start your day?" on the MindSumo platform, for developing next-gen dairy products. Our product design ranked # 9 in the competiton. 
+
+---
