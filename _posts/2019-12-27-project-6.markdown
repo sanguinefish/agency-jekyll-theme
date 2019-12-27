@@ -1,5 +1,5 @@
 ---
-title: Technical Communication 
+title: Technical Writing 
 subtitle: Instruction Manual & DIY Kit
 layout: default
 modal-id: 6
@@ -10,6 +10,6 @@ alt: image-alt
 <!-- project-date: April 2014 -->
 client: In-House
 category: Technical Communication 
-description: Launch a Business with Free Web Hosting & E-mail, is a Kindle e-book (work in progress) for engaging the entrepreneur, professional, and SME community with responsive services. Crafted as an instruction manual, the DIY kit is visually rich with illustrations and step-by-step instructions to establish a digital presence.  
+description: Launch a Business with Free Web Hosting & E-mail, is a Kindle e-book (work in progress) for engaging the entrepreneur, professional, and SME community with responsive services. Crafted as an instruction manual, the DIY kit is immersive with illustrations and step-by-step instructions to create a digital office.  
 
 ---
