@@ -1,15 +1,15 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: Software Application
+subtitle: Start-Up
 layout: default
 modal-id: 4
-date: 2014-07-15
-img: treehouse.png
-thumbnail: treehouse-thumbnail.png
+<!-- date: 2014-07-15 -->
+img: spc.png
+thumbnail: spc-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+<!-- project-date: April 2014 -->
+client: In-House
+category: Software Development
+description: Statistical Process Control is an application designed to manage business processes with statistical tools. Engineers at plants could control process variables to manage production within Six Sigma levels, for instance, or environmental engineers could control attributes to lower the carbon footprint. In the next phase of development, we plan to incorporate machine learning to make the application intelligent.    
 
 ---
