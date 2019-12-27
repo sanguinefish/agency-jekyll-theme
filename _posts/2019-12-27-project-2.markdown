@@ -1,0 +1,15 @@
+---
+title: Proposal Writing
+subtitle: Venture Capital
+layout: default
+modal-id: 2
+<!-- date: 2014-07-17 -->
+img: cdl.png
+thumbnail: cdl-thumbnail.png
+alt: image-alt
+<!-- project-date: April 2014 -->
+client: Collaboration 
+category: Venture Development Services
+description: Our project, Statistical Process Control, a machine learning tool for process industries placed in the waiting list of the Creative Destruction Lab 2019 Program.
+
+---
