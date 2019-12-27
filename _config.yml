@@ -9,11 +9,11 @@ description: "Cloud Services"
 
 # Team names, titles and social links
 people:
-- name: Raju Basumatary
+  name: Raju Basumatary
   pic: 1
   position: Chief Operations Officer
   social:
-    - title: LinkedIn
+     title: LinkedIn
       url: https://LinkedIn.com/in/digifaire
     
     #- title: facebook
