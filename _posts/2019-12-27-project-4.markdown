@@ -1,6 +1,6 @@
 ---
-title: Software Application
-subtitle: Start-Up
+title: Digital Lab
+subtitle: Sofware Apps
 layout: default
 modal-id: 4
 <!-- date: 2014-07-15 -->
@@ -10,6 +10,6 @@ alt: image-alt
 <!-- project-date: April 2014 -->
 client: In-House
 category: Software Development
-description: Statistical Process Control is an application designed to manage business processes with statistical tools. Engineers at plants could control process variables to manage production within Six Sigma levels, for instance, or environmental engineers could control attributes to lower the carbon footprint. In the next phase of development, we plan to incorporate machine learning to make the application intelligent.    
+description: We are developing software applications in our digital lab. Our strengths include codebase and stack development, and data science to the machine learning pipeline for developing AI products. Codify is a spinoff venture. We are launching several ed-tech platforms including Paragon.club.     
 
 ---
