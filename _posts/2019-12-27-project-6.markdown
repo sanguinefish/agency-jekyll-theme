@@ -1,5 +1,5 @@
 ---
-title: Technical Communication 
+title: Technical Writing 
 subtitle: Business & Copy 
 layout: default
 modal-id: 6
