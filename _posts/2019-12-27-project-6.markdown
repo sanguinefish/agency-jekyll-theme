@@ -1,6 +1,6 @@
 ---
 title: Technical Communication 
-subtitle: Copy & Scientific Literature
+subtitle: Business & Copy 
 layout: default
 modal-id: 6
 <!-- date: 2014-07-15 -->
