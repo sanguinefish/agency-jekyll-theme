@@ -1,6 +1,6 @@
 ---
-title: Technical Writing 
-subtitle: Instruction Manual & DIY Kit
+title: Technical Communication 
+subtitle: Copy & Scientific Literature
 layout: default
 modal-id: 6
 <!-- date: 2014-07-15 -->
@@ -9,7 +9,7 @@ thumbnail: tc-thumbnail.png
 alt: image-alt
 <!-- project-date: April 2014 -->
 client: In-House
-category: Technical Communication 
-description: Launch a Business with Free Web Hosting & E-mail, is a Kindle e-book (work in progress) for engaging the entrepreneur, professional, and SME community with responsive services. Crafted as an instruction manual, the DIY kit is immersive with illustrations and step-by-step instructions to create a digital office.  
+category: Government of Canada 
+description: We are an approved vendor for Government of Canada ProServices Business Services Technical Writing.  
 
 ---
