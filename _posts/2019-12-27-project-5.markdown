@@ -1,6 +1,6 @@
 ---
 title: Research 
-subtitle: Award-Winning Research
+subtitle: Award-Winning Insights
 layout: default
 modal-id: 5
 <!-- date: 2014-07-14 -->
