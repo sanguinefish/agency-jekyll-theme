@@ -1,6 +1,6 @@
 ---
 title: Technical Writing 
-subtitle: Business & Copy 
+subtitle: Immersive Narrative 
 layout: default
 modal-id: 6
 <!-- date: 2014-07-15 -->
